@@ -37,3 +37,7 @@ C:\Users\aleja\OneDrive\Documentos\GrabandRun\GrabandRun\obj\Debug\net9.0\ref\Gr
 C:\Users\aleja\OneDrive\Documentos\GrabAndRun\GrabandRun\bin\Debug\net9.0\Content\imagenes\arena.xnb
 C:\Users\aleja\OneDrive\Documentos\GrabAndRun\GrabandRun\bin\Debug\net9.0\Content\imagenes\arena_superficie.xnb
 C:\Users\aleja\OneDrive\Documentos\GrabAndRun\GrabandRun\bin\Debug\net9.0\Content\imagenes\fondo desierto.xnb
+C:\Prueba-GrabAndRun\GrabAndRun\GrabandRun\obj\Debug\net9.0\mgcb.tool.restore
+C:\Prueba-GrabAndRun\GrabAndRun\GrabandRun\obj\Debug\net9.0\GrabandRun.dll
+C:\Prueba-GrabAndRun\GrabAndRun\GrabandRun\obj\Debug\net9.0\refint\GrabandRun.dll
+C:\Prueba-GrabAndRun\GrabAndRun\GrabandRun\obj\Debug\net9.0\GrabandRun.pdb

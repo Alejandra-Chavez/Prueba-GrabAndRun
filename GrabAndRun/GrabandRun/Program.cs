@@ -1,2 +1,2 @@
-﻿using var game = new GrabandRun.Game1();
+﻿using var game = new GrabAndRun.Game1();
 game.Run();
