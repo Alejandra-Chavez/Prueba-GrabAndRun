@@ -1,1 +1,0 @@
-C:\Prueba-GrabAndRun\GrabAndRun\GrabandRun\obj\Debug\net8.0\mgcb.tool.restore
